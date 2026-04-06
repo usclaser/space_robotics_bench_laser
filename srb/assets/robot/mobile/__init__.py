@@ -11,6 +11,7 @@ from .lander import (  # noqa: F401
 )
 from .leo_rover import LeoRover  # noqa: F401
 from .mars_rover import MarsRover  # noqa: F401
+from .mercury7 import Mercury7  # noqa: F401
 from .open_source_rover import OpenSourceRover  # noqa: F401
 from .perseverance import Perseverance  # noqa: F401
 from .pragyan import Pragyan  # noqa: F401
